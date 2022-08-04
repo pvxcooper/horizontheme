@@ -4,7 +4,7 @@
   "version": "1.0",
   "authors": [
     {
-      "name": "banished#5378",
+      "name": "banished",
       "id": "505367847162347521"
     }
   ],
@@ -138,7 +138,7 @@
     "PRIMARY_DARK_360": "#C8C8C8",
     "PRIMARY_DARK_400": "#bebee3",
     "PRIMARY_DARK_500": "#697eab",
-    "PRIMARY_DARK_600": "#323348",
+    "PRIMARY_DARK_600": "#1A1C23",
     "PRIMARY_DARK_630": "#3c3d51",
     "PRIMARY_DARK_700": "#323348",
     "PRIMARY_DARK_800": "#363749",
